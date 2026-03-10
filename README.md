@@ -25,7 +25,7 @@ Un dashboard interactivo de Tableau utilizado para reportar y explorar tendencia
 
 Los datos de pedidos de Gamezone están alojados en una sola tabla (ver imagen), que contiene 54.318 registros, donde cada registro representa un ítem único en el pedido de un cliente. Esta estructura es ideal para analizar el rendimiento de productos desde múltiples dimensiones.
 
-<img width="283" height="295" alt="imagen" src="https://github.com/user-attachments/assets/337956d5-66a7-4a16-8488-8b27ed0f67a7" />
+<img width="279" height="294" alt="imagen" src="https://github.com/user-attachments/assets/02c85e83-b3a1-4acb-af6b-8c235fd13597" />
 
 
 Anterior al comienzo del análisis, una variedad de chequeos fueron llevados a cabo con el fin de asegurar el control de calidad así como la familiarización con el conjunto de datos. Las consultas en SQL utilizadas para la inspección y limpieza de los datos puede ser encontrada aquí [link](https://github.com/mrdo3197/Gamezone-Analisis-de-Rendimiento-de-Ventas/blob/main/etl_gamezone.sql).
