@@ -42,7 +42,8 @@ El análisis de ingresos de GameZone (2019-2023) revela dos patrones fundamental
 
 * **Normalización post-pandemia:** Tras los máximos históricos alcanzados a finales de 2021 (impulsados por el augo del gaming durante el confinamiento), los ingresos se han estabilizado en niveles similares a 2020. Esta corrección era esperable a medida que la vida social retomó su curso normal. Aunque febrero 2023 muestra una mejora del +8,6% vs. 2022, la caída del -3% vs. el mes anterior refleja la desaceleración típica de inicio de año, confirmando que el patrón estacional se mantiene.
 
-<img width="361" height="312" alt="imagen" src="https://github.com/user-attachments/assets/2ae2978a-ea1a-40ca-babe-d1a022f41138" /> <img width="361" height="342" alt="imagen" src="https://github.com/user-attachments/assets/367fedf1-5c38-4a40-99a2-c2c4bcdc5094" />
+<img width="362" height="308" alt="imagen" src="https://github.com/user-attachments/assets/5feb028a-576e-45ea-836c-116ca14f0fe9" /> <img width="363" height="340" alt="imagen" src="https://github.com/user-attachments/assets/c0720db0-fa74-4172-aff4-66a7181cca15" />
+
 
 ### Rendimiento por Categoría:
 
@@ -54,7 +55,8 @@ El análisis de ingresos de GameZone (2019-2023) revela dos patrones fundamental
 
 * **Gaming Laptops, foco de alerta**: Es la categoría con peor desempeño absoluto y relativo, con caídas dramáticas tanto mensuales (-39,1%) como anuales (-32,7%). Las posibles causas incluyen: fin del ciclo de vida de productos actuales, alta competencia en el segmento, problemas de abastecimiento, o un cambio en las preferencias del consumidor hacia consolas portátiles (Steam Deck, ASUS ROG Ally).
 
-<img width="580" height="299" alt="imagen" src="https://github.com/user-attachments/assets/1c2cb45c-54d5-412a-a6a9-e9ac0d11b1c1" />
+<img width="583" height="292" alt="imagen" src="https://github.com/user-attachments/assets/563e7407-7fb3-4fd5-8dc2-e5022115f39f" />
+
 
 ### Rendimiento por Producto:
 
@@ -79,7 +81,8 @@ El análisis de ingresos de GameZone (2019-2023) revela dos patrones fundamental
 
 * **Dell Gaming Mouse, marginal y estable:** Aporta solo 0,7% de ingresos con variaciones mínimas.
 
-<img width="589" height="365" alt="imagen" src="https://github.com/user-attachments/assets/18ddab33-663f-4b39-99ff-4fa989b82b92" />
+<img width="582" height="362" alt="imagen" src="https://github.com/user-attachments/assets/288976b6-c376-40c4-98b4-bd0fb0deb5b5" />
+
 
 
 ### Segmentación por Plataforma:
@@ -93,7 +96,8 @@ El análisis de ingresos de GameZone (2019-2023) revela dos patrones fundamental
     * Web: Crecimiento explosivo en 2020 (+163%), pico en 2021, y dos años de normalización. Febrero 2023 sugiere un punto de inflexión positivo.
     * App: Explosión en 2021 (+1.455%), seguida de dos años de declive, aunque manteniendo participación (~25%). La caída reciente podría indicar que el crecimiento post-pandemia se ha estabilizado a la baja.
   
-<img width="475" height="339" alt="imagen" src="https://github.com/user-attachments/assets/92a0b224-9184-43bf-a319-b10db2c9f671" />
+<img width="475" height="349" alt="imagen" src="https://github.com/user-attachments/assets/f60f5188-de92-429a-beab-4caace94b825" />
+
 
 
 ### Efectividad por Canal de Marketing:
@@ -111,7 +115,8 @@ El análisis de ingresos de GameZone (2019-2023) revela dos patrones fundamental
 
     Asociadas a cambios en algoritmos, menor inversión, contenido inefectivo o programas de afiliados poco atractivos. Se requiere una revisión crítica.
 
-<img width="487" height="243" alt="imagen" src="https://github.com/user-attachments/assets/6a3a9acb-12ed-4ffb-b749-6a6fe506893a" />
+<img width="495" height="245" alt="imagen" src="https://github.com/user-attachments/assets/132ae2b3-4b9b-4d72-bcb0-076456609dd9" />
+
 
 
 # Recomendaciones:
