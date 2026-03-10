@@ -17,7 +17,7 @@ El dashboard está diseñado para ayudar a el equipo de ventas a explorar el ren
 
 Este dashboard está diseñado para ser revisado mensualmente por el equipo de ventas, permitiendo un seguimiento ágil de los ingresos y la rápida identificación de áreas de oportunidad o riesgo.
 
-Las consultas de SQL utilizados para inspeccionar y limpiar los datos para este análisis se pueden encontrar aquí [link](https://github.com/mrdo3197/gamezone-data-analytics-portfolio/blob/main/gamezone_ETL.sql).
+Las consultas de SQL utilizados para inspeccionar y limpiar los datos para este análisis se pueden encontrar aquí [link](https://github.com/mrdo3197/Gamezone-Analisis-de-Rendimiento-de-Ventas/blob/main/etl_gamezone.sql).
 
 Un dashboard interactivo de Tableau utilizado para reportar y explorar tendencias de ventas se puede encontrar aquí [link](https://public.tableau.com/views/Proyecto_Gamezone_Ingresos_marketing/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
@@ -28,7 +28,7 @@ Los datos de pedidos de Gamezone están alojados en una sola tabla (ver imagen),
 <img width="283" height="295" alt="imagen" src="https://github.com/user-attachments/assets/337956d5-66a7-4a16-8488-8b27ed0f67a7" />
 
 
-Anterior al comienzo del análisis, una variedad de chequeos fueron llevados a cabo con el fin de asegurar el control de calidad así como la familiarización con el conjunto de datos. Las consultas en SQL utilizadas para la inspección y limpieza de los datos puede ser encontrada aquí [link](https://github.com/mrdo3197/gamezone-data-analytics-portfolio/blob/main/gamezone_ETL.sql).
+Anterior al comienzo del análisis, una variedad de chequeos fueron llevados a cabo con el fin de asegurar el control de calidad así como la familiarización con el conjunto de datos. Las consultas en SQL utilizadas para la inspección y limpieza de los datos puede ser encontrada aquí [link](https://github.com/mrdo3197/Gamezone-Analisis-de-Rendimiento-de-Ventas/blob/main/etl_gamezone.sql).
 
 # Resumen Ejecutivo
 
